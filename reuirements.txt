@@ -1,0 +1,4 @@
+Streamlit
+Joblib
+Scikit-learn==1.6.1
+Pandas
